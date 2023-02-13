@@ -6,3 +6,5 @@ This repository contains the following programs:
 2. Check whether a given number is a prime number.
 3. Reverse a given string.
 4. Check a given character is digit, consonant or vowel.
+5. Find the sum of elements in an array.
+6. Hello World program.
